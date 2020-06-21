@@ -1,0 +1,9 @@
+D:\Документы\Programs\Диплом Соломкина\bin\Debug\Diplom.exe.config
+D:\Документы\Programs\Диплом Соломкина\bin\Debug\Diplom.exe
+D:\Документы\Programs\Диплом Соломкина\bin\Debug\Diplom.pdb
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\RestrictedGraph.MainForm.resources
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\RestrictedGraph.Properties.Resources.resources
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\Diplom.csproj.GenerateResource.Cache
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\Diplom.exe
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\Diplom.pdb
+D:\Документы\Programs\Диплом Соломкина\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
